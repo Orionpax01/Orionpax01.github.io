@@ -55,3 +55,10 @@ html {
   -webkit-animation-name: slideIn-menu;
   animation-name: slideIn-menu;
 }
+
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
