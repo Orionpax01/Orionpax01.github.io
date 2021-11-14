@@ -2,7 +2,6 @@
   padding-top: 6rem;
   background-color: #6fa7fa;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  
 }
 section {
   padding-top: 8rem;
@@ -62,4 +61,7 @@ html {
 }
 #gallery .row > * {
   padding: 0;
+}
+container {
+  width: 100%;
 }
